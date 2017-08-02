@@ -1,0 +1,9 @@
+*.TIF
+*.tif
+*.tgz
+*.pyc
+DEM/
+Today/
+Historic/
+*.html
+usgs.txt
